@@ -1,5 +1,5 @@
-# borealis2-syntax theme
+# borealis2-syntax Atom theme
 
-A short description of your theme.
+Atom syntax theme with a dark background and pastel text.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Theme screenshot](https://raw.githubusercontent.com/jeff-kilbride/borealis2-syntax/master/images/screenshot.png)
