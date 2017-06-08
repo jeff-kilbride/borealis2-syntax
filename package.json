@@ -2,7 +2,7 @@
   "name": "borealis2-syntax",
   "theme": "syntax",
   "version": "0.7.0",
-  "description": "A short description of your syntax theme",
+  "description": "A dark syntax theme for Atom with pastel colors",
   "keywords": [
     "syntax",
     "theme"
